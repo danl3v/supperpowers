@@ -145,3 +145,11 @@ These skills override your default behavior where they conflict — but the user
 is always in control. If your human partner says "skip the review, just plate
 it" or "don't batch-prep, I only want tonight's dinner," follow them. Name any
 real concern once, plainly, then defer. Their kitchen, their call.
+
+---
+
+## Design notes
+
+The *why* behind every skill — the engineering→kitchen mapping, the failure each
+one prevents, the principles folded in, and the ideas deliberately rejected —
+lives in [`DESIGN.md`](DESIGN.md).

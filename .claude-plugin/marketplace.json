@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "supperpowers",
+  "owner": {
+    "name": "Daniel Levy",
+    "email": "me@danl3v.com"
+  },
+  "description": "An agentic skills framework & home-cookery methodology that works.",
+  "plugins": [
+    {
+      "name": "supper-powers",
+      "source": "./plugins/supper-powers",
+      "description": "Nine skills that bring engineering discipline to cooking supper: spec the menu, prep composable bases, cook test-first, gate every plate at review.",
+      "license": "MIT",
+      "keywords": ["skills", "cooking", "methodology", "workflow"]
+    }
+  ]
+}

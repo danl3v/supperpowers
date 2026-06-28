@@ -13,6 +13,21 @@ gates every plate at review before it reaches the table.
 
 ---
 
+## Install
+
+This repo is a Claude Code plugin marketplace. From inside Claude Code:
+
+```
+/plugin marketplace add danl3v/supperpowers
+/plugin install supper-powers@supperpowers
+```
+
+Then the nine skills activate automatically, and you can invoke any of them
+explicitly with `/supper-powers:<skill-name>` (e.g.
+`/supper-powers:brainstorming-supper`).
+
+---
+
 ## RIGHT NOW, go read the skills
 
 When a relevant skill applies — even a 1% chance it applies — invoke it before

@@ -1,15 +1,16 @@
 ---
-name: setting-up-your-station
-description: Use when outfitting or organizing your kitchen - choose few good tools over many cheap ones, and resist single-purpose gadgets that skill or an existing tool already handles. A sharp knife and a cutting board beat a drawer of unitaskers. Your tooling is infrastructure; keep it lean, sharp, and within reach.
+name: provisioning-your-kitchen
+description: Use when provisioning or organizing the kitchen you cook in - the durable toolchain, not the meal. Choose few good tools over many cheap ones, and resist single-purpose gadgets that skill or an existing tool already handles. A sharp knife and a cutting board beat a drawer of unitaskers. Your tooling is infrastructure; keep it lean, sharp, and within reach.
 ---
 
-# Setting Up Your Station
+# Provisioning Your Kitchen
 
-**Activates when you're choosing tools or organizing the space you cook in** —
-not mid-cook, but when deciding what lives on your counter and in your drawers.
-Your station is infrastructure. Every cook runs on it, so its quality compounds:
-a good setup makes every future meal faster, and a cluttered one taxes every
-meal forever.
+**Activates when you're provisioning the environment you cook in** — choosing the
+tools and organizing the workstation, not running a meal on it. This is
+infrastructure work: deciding what lives on your counter and in your drawers, the
+way you'd provision a base image or a dev environment before any code runs. Every
+cook runs on this setup, so its quality compounds: a well-provisioned kitchen
+makes every future meal faster, and a cluttered one taxes every meal forever.
 
 ## The Iron Law
 

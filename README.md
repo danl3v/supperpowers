@@ -37,10 +37,11 @@ this sauce"), then follow it exactly.
 
 ## The nine skills
 
-**setting-up-your-station** — Activates when outfitting or organizing the
-kitchen. Few good tools over many cheap ones; resist single-purpose gadgets a
-skill or existing tool already handles. Your durable infrastructure — keep it
-lean, sharp, and in reach. (The tool-side cousin of bake-or-bakery.)
+**provisioning-your-kitchen** — Activates when provisioning or organizing the
+kitchen — the durable toolchain, not the meal. Few good tools over many cheap
+ones; resist single-purpose gadgets a skill or existing tool already handles.
+Your infrastructure — keep it lean, sharp, and in reach. (The tool-side cousin
+of bake-or-bakery.)
 
 **brainstorming-supper** — Activates before any burner is lit. Refines a vague
 craving into an agreed menu through questions, explores alternatives, gets
@@ -94,7 +95,7 @@ logged and served.
 ## The loop
 
 ```
-setting-up-your-station    → (durable) lean, sharp station to cook on
+provisioning-your-kitchen  → (durable) lean, sharp station to cook on
 brainstorming-supper       → agree the menu
   ├─ mise-en-container      → (ahead of time) stock composable bases
   ├─ staging-for-service    → (for an event) release stable work ahead, deploy fresh
